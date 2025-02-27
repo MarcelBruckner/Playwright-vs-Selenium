@@ -1,0 +1,22 @@
+{
+  "name": "playwright-vs-selenium",
+  "version": "1.0.0",
+  "description": "Evaluierung von Playwright und Selenium",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcelBruckner/Playwright-vs-Selenium.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcelBruckner/Playwright-vs-Selenium/issues"
+  },
+  "homepage": "https://github.com/MarcelBruckner/Playwright-vs-Selenium#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.5"
+  }
+}
